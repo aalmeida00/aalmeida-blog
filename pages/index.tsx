@@ -16,7 +16,6 @@ const QUERY = gql`
       publishedAt
       slug
       title
-      updatedAt
       author {
         name
         avatar {
